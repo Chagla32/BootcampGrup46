@@ -2,7 +2,7 @@
 Bootcamp Grup 46
 # Ürün İle İlgili Bilgiler
 # Takım Elemanları
-Methmet Gül: Product Owner  
+Mehmet Gül: Product Owner  
 Çağla Mumcu: Scrum Master  
 Yiğit Erköseoğlu: Developer  
 # Ürün İsmi 
