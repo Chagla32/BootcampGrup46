@@ -4,7 +4,7 @@ Bootcamp Grup 46
 # Takım Elemanları
 Methmet Gül: Product Owner  
 Çağla Mumcu: Scrum Master  
-Yiğit: Team Member/Developer  
+Yiğit Erköseoğlu: Developer  
 # Ürün İsmi 
 - Belli Değil-
 # Ürün Açıklaması
@@ -15,9 +15,9 @@ Tek oyunculu
 Unity 3D  
 5 seviyeden oluşur, oyuncu ilerledikçe ortam ve görevler değişir
 # Hedef Kitle
-Psikolojik gerilim veya korku türüne ilgi duyanlar
-Yüksek aksiyon yerine atmosfer ve hikâye beklentisi olanlar
-Yaş: 16–30 yaş arası
+Psikolojik gerilim veya korku türüne ilgi duyanlar  
+Yüksek aksiyon yerine atmosfer ve hikâye beklentisi olanlar  
+Yaş: 16–30 yaş arası  
 # Sprint 1
 # Product Backlog URL
 https://app.clickup.com/90181370278/v/b/s/90185190727  
