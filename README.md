@@ -27,14 +27,15 @@ Proje yönetimi için ClickUp kullanılmasına karar verilmiştir.
 Unity (URP) oyun motoru olarak kullanılmaktadır.  
 Unity Version Control versiyon kontrol sistemi olarak kullanılmaktadır.  
 Oyun Konsepti ve Hikayesi temelleri atıldı.  
-Konsepte uygun assetler denendi.  
-İlk sprintte toplam 13 puanlık görev hedeflenmiştir.  
-Daily Scrum: Günlük WhatsApp kullanıldı. Haftada 2 kere Zoom üzerinden toplanıldı.  
+Konsepte uygun assetler denendi.   
 Oyun dinamiği ile ilgili bireysel denemeler yapıldı.     
-Oyun hikayesi için önerilerde bulunuldu.  
-Sprint içerisinde beklenen puan tamamlanması: 13 puan  
+Oyun hikayesi için önerilerde bulunuldu.    
 Puanlama Mantığı:
 (13 puan planlandı)
+# Sprint içinde tamamlanması tahmin edilen puan  
+Sprint içerisinde beklenen puan tamamlanması: 13 puan
+# Daily Scrum  
+Grup üyelerine en uygun yöntem olarak WhatsApp üzerinden iletişim kuruldu. Haftada 2 kere olmak üzere Zoom üzerinden toplantılar yüz yüze gerçekleşti.
 # Sprint Retrospective
 Projeden iki kişinin ayrılmasıyla görev dağılımlarının yeniden yapılması gerktiğine karar verildi.   
 Projenin 1. leveli üzerine çalışılmaya başlanılacak.   
