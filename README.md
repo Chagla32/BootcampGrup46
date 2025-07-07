@@ -20,7 +20,9 @@ Yüksek aksiyon yerine atmosfer ve hikâye beklentisi olanlar
 Yaş: 16–30 yaş arası 
 
 # Sprint 1
-# Ürün Durumu: Ekran görüntüleri
+# Ürün Durumu: Ekran görüntüleri  
+![Ekran görüntüsü 2025-07-07 194627](https://github.com/user-attachments/assets/b8867e1a-c2af-4c92-8182-3f8dd1829e6a)  
+![Ekran görüntüsü 2025-07-07 194553](https://github.com/user-attachments/assets/ebd4696e-e345-4cd3-87ec-8ded2b716146)
 # Product Backlog URL
 https://app.clickup.com/90181370278/v/b/s/90185190727  
 ![image](https://github.com/user-attachments/assets/992a96bf-2aac-4bc3-906e-19ae4f932977)
