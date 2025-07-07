@@ -17,7 +17,8 @@ Unity 3D
 # Hedef Kitle
 Psikolojik gerilim veya korku türüne ilgi duyanlar  
 Yüksek aksiyon yerine atmosfer ve hikâye beklentisi olanlar  
-Yaş: 16–30 yaş arası  
+Yaş: 16–30 yaş arası  [DailyScrumMeetingNotes1.docx](https://github.com/user-attachments/files/21106095/DailyScrumMeetingNotes1.docx)
+
 # Sprint 1
 # Product Backlog URL
 https://app.clickup.com/90181370278/v/b/s/90185190727  
@@ -32,10 +33,12 @@ Oyun dinamiği ile ilgili bireysel denemeler yapıldı.
 Oyun hikayesi için önerilerde bulunuldu.    
 Puanlama Mantığı:
 (13 puan planlandı)
-# Sprint içinde tamamlanması tahmin edilen puan  
-Sprint içerisinde beklenen puan tamamlanması: 13 puan
+# Sprint içinde tamamlanması tahmin edilen puan:  
+Sprint içerisinde beklenen puan tamamlanması: 13 puan  
+# Puan tamamlama mantığı:   
+“Toplamda proje süresince tamamlanması planlanan 50 puanlık bir backlog bulunmaktadır. Bu backlog 3 Sprint’e bölünmüş olup, ilk Sprint’te 13 puanlık iş planlanmıştır.”
 # Daily Scrum  
-Grup üyelerine en uygun yöntem olarak WhatsApp üzerinden iletişim kuruldu. Haftada 2 kere olmak üzere Zoom üzerinden toplantılar yüz yüze gerçekleşti.
+Grup üyelerine en uygun yöntem olarak WhatsApp üzerinden iletişim kuruldu. Haftada 2 kere olmak üzere Zoom üzerinden toplantılar yüz yüze gerçekleşti.Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrumMeetingNotes1.docx](https://github.com/user-attachments/files/21106095/DailyScrumMeetingNotes1.docx) 
 # Sprint Retrospective
 Projeden iki kişinin ayrılmasıyla görev dağılımlarının yeniden yapılması gerktiğine karar verildi.   
 Projenin 1. leveli üzerine çalışılmaya başlanılacak.   
