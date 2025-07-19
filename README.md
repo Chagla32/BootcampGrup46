@@ -43,4 +43,15 @@ Grup üyelerine en uygun yöntem olarak WhatsApp üzerinden iletişim kuruldu. H
 # Sprint Retrospective
 Projeden iki kişinin ayrılmasıyla görev dağılımlarının yeniden yapılması gerktiğine karar verildi.   
 Projenin 1. leveli üzerine çalışılmaya başlanılacak.   
-2.level için hazırlıklara başlanacak.
+2.level için hazırlıklara başlanacak.  
+# Sprint 2  
+Sprint içinde tamamlanması tahmin edilen puan: 20 puan  
+# Daily Scrum  
+Daily Scrum toplantıları Zoom ve Whatsapp üzerinden yapıldı. Daily Scrum toplantı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  
+# Sprint board güncellemesi: Sprint board ekran görüntüleri:
+# Ürün Durumu: Ekran görüntüleri:  
+# Sprint Review:  
+Alınan kararlar:  
+# Sprint Retrospective:  
+# Product Backlog URL:  
+
