@@ -67,6 +67,8 @@ Düşman yapay zekâsı
 İkinci sprint süresince iki arkadaşımızın projeden ayrılması sebebiyle iş yükü yeniden planlandı. Oyunun hikayesi ile konsepti değiştirildi. Bu değişiklikler doğrultusunda önceden belirlenen bazı görevler iptal edildi ve yerine yeni user story’ler ve görevler sprint backlog’a eklendi.  
 Yeni oyun hikayesi oluşturuldu ve belgelendi.  
 Yeni temaya uygun sahne tasarımlarına başlandı.  
+# Puan tamamlama mantığı:  
+Proje ilerledikçe hem oyun mekaniklerinde hem de içerik planlamasında yapılan güncellemeler doğrultusunda, ürün kapsamı genişletilmiştir. Başlangıçta toplam 50 puanlık bir backlog planlanmışken, yeni özelliklerin, sahnelerin ve görevlerin eklenmesiyle birlikte bu sayı 80 puana çıkarıldı. 3 sprinte bölündüğünde ikinci sprintin 32 ile devam etmesi gerektiği kararlaştırıldı.
 # Sprint içinde tamamlanması tahmin edilen puan:  
 Sprint içerisinde beklenen puan tamamlanması: 32 puan
 # Daily Scrum  
