@@ -77,6 +77,8 @@ Sprint board ekran görüntüleri:
 # Ürün Durumu:  
 Ekran görüntüleri:  <img width="1920" height="997" alt="Ekran görüntüsü 2025-07-19 211638" src="https://github.com/user-attachments/assets/6f3c8923-214a-4c18-bd1a-d7a34bfb9231" />  
 
+
+https://github.com/user-attachments/assets/0c4ffce8-970e-41e7-a5ec-d61fd9f7abb7  
 # Sprint Retrospective:     
 Oyun konseptinin değişmesi ve ekipten ayrılan üyelerin olması grup dinamiğini etkiledi. Scrum sürecinde yaşanan bu değişiklikler takım tarafından esneklikle karşılandı ve yeni oyunumuz için grubun adaptasyonu başarıyla sağlandı. Hızlı aksiyon alındı ve yeni görev dağılımları yapıldı. Grup üye sayısının azalmasıyla beraber daha hızlı buluşmalar ayarlandı ve kararlar alındı. Yeni oyun konsepti tüm üyelerin ortak kararıyla belirlendi ve daha net bir hedef doğrultusunda ilerlenmeye başlandı.     
 # Product Backlog URL:  
