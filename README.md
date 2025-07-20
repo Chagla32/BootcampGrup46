@@ -68,14 +68,14 @@ Düşman yapay zekâsı
 Yeni oyun hikayesi oluşturuldu ve belgelendi.  
 Yeni temaya uygun sahne tasarımlarına başlandı.  
 # Puan tamamlama mantığı:  
-Proje ilerledikçe hem oyun mekaniklerinde hem de içerik planlamasında yapılan güncellemeler doğrultusunda, ürün kapsamı genişletilmiştir. Başlangıçta toplam 50 puanlık bir backlog planlanmışken, yeni özelliklerin, sahnelerin ve görevlerin eklenmesiyle birlikte bu sayı 80 puana çıkarıldı. 3 sprinte bölündüğünde ikinci sprintin 32 ile devam etmesi gerektiği kararlaştırıldı.
+Proje ilerledikçe hem oyun mekaniklerinde hem de içerik planlamasında yapılan güncellemeler doğrultusunda, ürün kapsamı genişletilmiştir. Başlangıçta toplam 50 puanlık bir backlog planlanmışken, yeni özelliklerin, sahnelerin ve görevlerin eklenmesiyle birlikte bu sayı 80 puana çıkarıldı. 3 sprinte bölündüğünde ikinci sprintin 40 ile devam etmesi gerektiği kararlaştırıldı.
 # Sprint içinde tamamlanması tahmin edilen puan:  
-Sprint içerisinde beklenen puan tamamlanması: 32 puan
+Sprint içerisinde beklenen puan tamamlanması: 40 puan
 # Daily Scrum  
 Daily Scrum toplantıları Zoom ve Whatsapp üzerinden yapıldı. Daily Scrum toplantı örneği jpeg veya word  olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum.docx](https://github.com/user-attachments/files/21337502/Daily.Scrum.docx)  
 # Sprint board güncellemesi:  
 Sprint board ekran görüntüleri:    
-<img width="1920" height="919" alt="Sprint board ekran görüntüleri" src="https://github.com/user-attachments/assets/4fc2b008-0c6b-48c0-aa32-bc4e02ce6166" /> 
+ <img width="1920" height="949" alt="Sprint board 2" src="https://github.com/user-attachments/assets/62c80e31-6609-4b56-9bca-c7d1f7947f21" />  
 # Ürün Durumu:  
 Ekran görüntüleri:  <img width="1920" height="997" alt="Ekran görüntüsü 2025-07-19 211638" src="https://github.com/user-attachments/assets/6f3c8923-214a-4c18-bd1a-d7a34bfb9231" />  
 
