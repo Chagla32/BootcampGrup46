@@ -1,7 +1,7 @@
 # Takım İsmi
 Bootcamp Grup 46
 # Ürün İle İlgili Bilgiler
-# Takım Elemanları
+# Takım Üyeleri
 Mehmet Gül: Product Owner  
 Çağla Mumcu: Scrum Master  
 Yiğit Erköseoğlu: Developer  
@@ -45,7 +45,9 @@ Projeden iki kişinin ayrılmasıyla görev dağılımlarının yeniden yapılma
 Projenin 1. leveli üzerine çalışılmaya başlanılacak.   
 2.level için hazırlıklara başlanacak.  
 # Sprint 2  
-Sprint içinde tamamlanması tahmin edilen puan: 20 puan  
+# Sprint Review:  
+
+# Sprint içinde tamamlanması tahmin edilen puan: 20 puan  
 # Daily Scrum  
 Daily Scrum toplantıları Zoom ve Whatsapp üzerinden yapıldı. Daily Scrum toplantı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  
 # Sprint board güncellemesi: Sprint board ekran görüntüleri:
