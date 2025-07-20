@@ -64,9 +64,7 @@ Low Poly grafikler
 Yakın dövüş sistemi  
 Düşman yapay zekâsı  
 # Sprint Review:  
-İkinci sprint süresince iki arkadaşımızın projeden ayrılması sebebiyle iş yükü yeniden planlandı. Oyunun hikayesi ile konsepti değiştirildi. Bu değişiklikler doğrultusunda önceden belirlenen bazı görevler iptal edildi ve yerine yeni user story’ler ve görevler sprint backlog’a eklendi.  
-Yeni oyun hikayesi oluşturuldu ve belgelendi.  
-Yeni temaya uygun sahne tasarımlarına başlandı.  
+İkinci sprint süresince iki arkadaşımızın projeden ayrılması sebebiyle iş yükü yeniden planlandı. Oyunun hikayesi ile konsepti değiştirildi. Bu değişiklikler doğrultusunda önceden belirlenen bazı görevler iptal edildi ve yerine yeni user story’ler ve görevler sprint backlog’a eklendi. Yeni oyun hikayesi oluşturuldu ve belgelendi. Yeni temaya uygun sahne tasarımlarına başlandı. Sprint Review katılımcıları: Mehmet Gül, Yiğit Erköseoğlu, Çağla Mumcu  
 # Puan tamamlama mantığı:  
 Proje ilerledikçe hem oyun mekaniklerinde hem de içerik planlamasında yapılan güncellemeler doğrultusunda, ürün kapsamı genişletilmiştir. Başlangıçta toplam 50 puanlık bir backlog planlanmışken, yeni özelliklerin, sahnelerin ve görevlerin eklenmesiyle birlikte bu sayı 80 puana çıkarıldı. 3 sprinte bölündüğünde ikinci sprintin 40 ile devam etmesi gerektiği kararlaştırıldı.
 # Sprint içinde tamamlanması tahmin edilen puan:  
