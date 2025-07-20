@@ -44,16 +44,39 @@ Grup üyelerine en uygun yöntem olarak WhatsApp üzerinden iletişim kuruldu. H
 Projeden iki kişinin ayrılmasıyla görev dağılımlarının yeniden yapılması gerktiğine karar verildi.   
 Projenin 1. leveli üzerine çalışılmaya başlanılacak.   
 2.level için hazırlıklara başlanacak.  
-# Sprint 2  
+# Sprint 2   
+# Ürün İsmi  
+- Belirtilmedi-
+# Ürün Açıklaması  
+Unity oyun motoru ile geliştirilen, low poly görsel stile sahip üçüncü kişi aksiyon oyunudur. Oyuncu, sevimli bir savaşçıyı kontrol eder. Oyun boyunca karakterimiz düşmanlarını yenerek hayatta kalmaya çalışır.
+Oyun; 3 levelden oluşmakta ve her level farklı mekânda geçmektedir:  
+Gizemli Orman: Düşmanların pusuda beklediği, sisli ağaçlık alan.  
+Karanlık Kale: Büyülü yaratıkların hüküm sürdüğü bir yapı.  
+Zindanlar: Labirent gibi karanlık geçitlerde geçen yoğun yakın dövüş mekaniğinin kullanılacağı alan.  
+Oyuncu, ipuçlarını takip ederek ilerler, düşmanları alt etmek için yakın dövüş mekaniklerini ve kılıç gibi aletler kullanır.
+# Hedef Kitle  
+Aksiyon ve macera oyunlarını sevenler  
+Bağımsız ve kısa süreli oyun deneyimi arayanlar  
+Fantezi dünyalarına ilgi duyanlar  
+# Ürün Özellikleri  
+Basit ve akıcı kontroller  
+Low Poly grafikler  
+Yakın dövüş sistemi  
+Düşman yapay zekâsı  
 # Sprint Review:  
-
-# Sprint içinde tamamlanması tahmin edilen puan: 20 puan  
+İkinci sprint süresince iki arkadaşımızın projeden ayrılması sebebiyle iş yükü yeniden planlandı. Oyunun hikayesi ile konsepti değiştirildi. Bu değişiklikler doğrultusunda önceden belirlenen bazı görevler iptal edildi ve yerine yeni user story’ler ve görevler sprint backlog’a eklendi.  
+Yeni oyun hikayesi oluşturuldu ve belgelendi.  
+Yeni temaya uygun sahne tasarımlarına başlandı.  
+# Sprint içinde tamamlanması tahmin edilen puan:  
+Sprint içerisinde beklenen puan tamamlanması: 32 puan
 # Daily Scrum  
-Daily Scrum toplantıları Zoom ve Whatsapp üzerinden yapıldı. Daily Scrum toplantı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  
-# Sprint board güncellemesi: Sprint board ekran görüntüleri:
-# Ürün Durumu: Ekran görüntüleri:  
-# Sprint Review:  
-Alınan kararlar:  
+Daily Scrum toplantıları Zoom ve Whatsapp üzerinden yapıldı. Daily Scrum toplantı örneği jpeg veya word  olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum.docx](https://github.com/user-attachments/files/21337502/Daily.Scrum.docx)  
+# Sprint board güncellemesi: Sprint board ekran görüntüleri:  
+<img width="1920" height="919" alt="Sprint board ekran görüntüleri" src="https://github.com/user-attachments/assets/4fc2b008-0c6b-48c0-aa32-bc4e02ce6166" />
+# Ürün Durumu:    
+Ekran görüntüleri:   
 # Sprint Retrospective:  
+Oyun konseptinin değişmesi ve ekipten ayrılan üyelerin olması grup dinamiğini etkiledi. Scrum sürecinde yaşanan bu değişiklikler takım tarafından esneklikle karşılandı ve yeni oyunumuz için grubun adaptasyonu başarıyla sağlandı. Hızlı aksiyon alındı ve yeni görev dağılımları yapıldı. Grup üye sayısının azalmasıyla beraber daha hızlı buluşmalar ayarlandı ve kararlar alındı. Yeni oyun konsepti tüm üyelerin ortak kararıyla belirlendi ve daha net bir hedef doğrultusunda ilerlenmeye başlandı.   
 # Product Backlog URL:  
+https://app.clickup.com/90181370278/v/b/4-90185190727-2
 
