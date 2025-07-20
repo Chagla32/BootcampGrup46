@@ -73,10 +73,10 @@ Sprint içerisinde beklenen puan tamamlanması: 32 puan
 Daily Scrum toplantıları Zoom ve Whatsapp üzerinden yapıldı. Daily Scrum toplantı örneği jpeg veya word  olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum.docx](https://github.com/user-attachments/files/21337502/Daily.Scrum.docx)  
 # Sprint board güncellemesi: Sprint board ekran görüntüleri:  
 <img width="1920" height="919" alt="Sprint board ekran görüntüleri" src="https://github.com/user-attachments/assets/4fc2b008-0c6b-48c0-aa32-bc4e02ce6166" />  
-# Ürün Durumu:    
+# Ürün Durumu:     
 Ekran görüntüleri:   
-# Sprint Retrospective:  
+# Sprint Retrospective:    
 Oyun konseptinin değişmesi ve ekipten ayrılan üyelerin olması grup dinamiğini etkiledi. Scrum sürecinde yaşanan bu değişiklikler takım tarafından esneklikle karşılandı ve yeni oyunumuz için grubun adaptasyonu başarıyla sağlandı. Hızlı aksiyon alındı ve yeni görev dağılımları yapıldı. Grup üye sayısının azalmasıyla beraber daha hızlı buluşmalar ayarlandı ve kararlar alındı. Yeni oyun konsepti tüm üyelerin ortak kararıyla belirlendi ve daha net bir hedef doğrultusunda ilerlenmeye başlandı.     
 # Product Backlog URL:  
-https://app.clickup.com/90181370278/v/b/4-90185190727-2
+https://app.clickup.com/90181370278/v/b/4-90185190727-2  
 
