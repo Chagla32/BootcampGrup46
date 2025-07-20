@@ -72,7 +72,7 @@ Sprint içerisinde beklenen puan tamamlanması: 32 puan
 # Daily Scrum  
 Daily Scrum toplantıları Zoom ve Whatsapp üzerinden yapıldı. Daily Scrum toplantı örneği jpeg veya word  olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum.docx](https://github.com/user-attachments/files/21337502/Daily.Scrum.docx)  
 # Sprint board güncellemesi: Sprint board ekran görüntüleri:  
-<img width="1920" height="919" alt="Sprint board ekran görüntüleri" src="https://github.com/user-attachments/assets/4fc2b008-0c6b-48c0-aa32-bc4e02ce6166" />
+<img width="1920" height="919" alt="Sprint board ekran görüntüleri" src="https://github.com/user-attachments/assets/4fc2b008-0c6b-48c0-aa32-bc4e02ce6166" />  
 # Ürün Durumu:    
 Ekran görüntüleri:   
 # Sprint Retrospective:  
