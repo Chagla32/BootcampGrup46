@@ -76,7 +76,7 @@ Daily Scrum toplantıları Zoom ve Whatsapp üzerinden yapıldı. Daily Scrum to
 # Ürün Durumu:    
 Ekran görüntüleri:   
 # Sprint Retrospective:  
-Oyun konseptinin değişmesi ve ekipten ayrılan üyelerin olması grup dinamiğini etkiledi. Scrum sürecinde yaşanan bu değişiklikler takım tarafından esneklikle karşılandı ve yeni oyunumuz için grubun adaptasyonu başarıyla sağlandı. Hızlı aksiyon alındı ve yeni görev dağılımları yapıldı. Grup üye sayısının azalmasıyla beraber daha hızlı buluşmalar ayarlandı ve kararlar alındı. Yeni oyun konsepti tüm üyelerin ortak kararıyla belirlendi ve daha net bir hedef doğrultusunda ilerlenmeye başlandı.   
+Oyun konseptinin değişmesi ve ekipten ayrılan üyelerin olması grup dinamiğini etkiledi. Scrum sürecinde yaşanan bu değişiklikler takım tarafından esneklikle karşılandı ve yeni oyunumuz için grubun adaptasyonu başarıyla sağlandı. Hızlı aksiyon alındı ve yeni görev dağılımları yapıldı. Grup üye sayısının azalmasıyla beraber daha hızlı buluşmalar ayarlandı ve kararlar alındı. Yeni oyun konsepti tüm üyelerin ortak kararıyla belirlendi ve daha net bir hedef doğrultusunda ilerlenmeye başlandı.     
 # Product Backlog URL:  
 https://app.clickup.com/90181370278/v/b/4-90185190727-2
 
