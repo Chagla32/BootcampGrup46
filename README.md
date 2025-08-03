@@ -80,19 +80,38 @@ Ekran görüntüleri:  <img width="1920" height="997" alt="Ekran görüntüsü 2
 
 https://github.com/user-attachments/assets/0c4ffce8-970e-41e7-a5ec-d61fd9f7abb7  
 # Sprint Retrospective:     
-Oyun konseptinin değişmesi ve ekipten ayrılan üyelerin olması grup dinamiğini etkiledi. Scrum sürecinde yaşanan bu değişiklikler takım tarafından esneklikle karşılandı ve yeni oyunumuz için grubun adaptasyonu başarıyla sağlandı. Hızlı aksiyon alındı ve yeni görev dağılımları yapıldı. Grup üye sayısının azalmasıyla beraber daha hızlı buluşmalar ayarlandı ve kararlar alındı. Yeni oyun konsepti tüm üyelerin ortak kararıyla belirlendi ve daha net bir hedef doğrultusunda ilerlenmeye başlandı.     
+Oyun konseptinin değişmesi ve ekipten ayrılan üyelerin olması grup dinamiğini etkiledi. Scrum sürecinde yaşanan bu değişiklikler takım tarafından esneklikle karşılandı ve yeni oyunumuz için grubun adaptasyonu başarıyla sağlandı. Hızlı aksiyon alındı ve yeni görev dağılımları yapıldı. Grup üye sayısının azalmasıyla beraber daha hızlı buluşmalar ayarlandı ve kararlar alındı. Yeni oyun konsepti tüm üyelerin ortak kararıyla belirlendi ve daha net bir hedef doğrultusunda ilerlenmeye başlandı.       
 # Product Backlog URL:  
-https://app.clickup.com/90181370278/v/b/4-90185190727-2  
-# Sprint 3:  
+https://app.clickup.com/90181370278/v/b/4-90185190727-2   
+# Sprint 3
+
+
 # Sprint içinde tamamlanması tahmin edilen puan ve puanlama mantığı:    
 Bu sprint kapsamında tamamlanması hedeflenen toplam iş yükü 27 puan olarak planlanmıştır. Puanlama, işlerin sprint süresi içinde tamamlanabilirliği göz önünde bulundurulmuştur.  
 # Daily Scrum:  
-Günlük iletişim yine WhatsApp üzerinden sağlandı. Zoom toplantıları haftalık 2 kez yapılmaya devam etti. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum3.docx](https://github.com/user-attachments/files/21566340/DailyScrum3.docx)  
-# Sprint board update:  
+Günlük iletişim yine WhatsApp üzerinden sağlandı. Zoom toplantıları haftalık 2 kez yapılmaya devam etti. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum3.docx](https://github.com/user-attachments/files/21566340/DailyScrum3.docx) 
+
+
+# Sprint board update:   
+
 <img width="1920" height="979" alt="Sprint Board" src="https://github.com/user-attachments/assets/97bb4577-eedc-4f31-a8ed-ff1e61aa51c8" />   
-# Product Backlog URL:  https://app.clickup.com/90181370278/v/b/4-90185190727-2  
-# Ürün Durumu:  
+
+
+# Product Backlog URL:  
+https://app.clickup.com/90181370278/v/b/4-90185190727-2    
+
+
+  # Ürün Durumu:  <img width="1920" height="878" alt="Ekran görüntüsü 2025-08-03 212638" src="https://github.com/user-attachments/assets/c84a12d5-3f31-4929-80ac-b4f9630d4c5a" />  
+<img width="1920" height="879" alt="Ekran görüntüsü 2025-08-03 212545" src="https://github.com/user-attachments/assets/83f461c1-9e58-4227-9690-9ea03c47daa8" /> 
+
+
 # Sprint Review:  
-Menü sistemi ve temel UI unsurları tasarlandı. Projeye yeni kullanıcı arayüzleri (language toggle, ses ayarı vb.) eklendi. Karakter animasyonları ve kontrolleri geliştirildi. Oyun sahneleri hazırlandı. Düşman animasyonları ve kontrolleri temel olarak çalışır hale getirildi.
-# Sprint Retrospective:  
-Takım, önceki sprintlerde edindiği deneyimle daha verimli çalıştı. Zaman yönetimi ve görev paylaşımında iyileştirmeler sağlandı. Oyun tam anlamıyla tamamlanmasa da büyük oranda ilerleme kaydedildi. Kalan işler küçük çaplı detaylara ve son rötuşlara yöneliktir. Oyun son haliyle test aşamasına yaklaştı. Ekip üyeleri daha önce deneyemlemedikleri uygulamalarda bulundu.
+
+
+Menü sistemi ve temel UI unsurları tasarlandı. Projeye yeni kullanıcı arayüzleri (language toggle, ses ayarı vb.) eklendi. Karakter animasyonları ve kontrolleri geliştirildi. Oyun sahneleri hazırlandı. Düşman animasyonları ve kontrolleri temel olarak çalışır hale getirildi. 
+
+
+# Sprint Retrospective:     
+
+
+Takım, önceki sprintlerde edindiği deneyimle daha verimli çalıştı. Zaman yönetimi ve görev paylaşımında iyileştirmeler sağlandı. Oyun tam anlamıyla tamamlanmasa da büyük oranda ilerleme kaydedildi. Kalan işler küçük çaplı detaylara ve son rötuşlara yöneliktir. Oyun son haliyle test aşamasına yaklaştı. Ekip üyeleri daha önce deneyemlemedikleri uygulamalarda bulundu.  
