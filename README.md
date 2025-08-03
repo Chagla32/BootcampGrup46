@@ -102,7 +102,9 @@ https://app.clickup.com/90181370278/v/b/4-90185190727-2
 
 
   # Ürün Durumu:  <img width="1920" height="878" alt="Ekran görüntüsü 2025-08-03 212638" src="https://github.com/user-attachments/assets/c84a12d5-3f31-4929-80ac-b4f9630d4c5a" />  
-<img width="1920" height="879" alt="Ekran görüntüsü 2025-08-03 212545" src="https://github.com/user-attachments/assets/83f461c1-9e58-4227-9690-9ea03c47daa8" /> 
+<img width="1920" height="879" alt="Ekran görüntüsü 2025-08-03 212545" src="https://github.com/user-attachments/assets/83f461c1-9e58-4227-9690-9ea03c47daa8" /> <img width="1747" height="761" alt="Ekran görüntüsü 2025-08-03 230115" src="https://github.com/user-attachments/assets/23ee09a0-a703-44dd-a147-f80b365de0e8" />
+<img width="1755" height="782" alt="Ekran görüntüsü 2025-08-03 230131" src="https://github.com/user-attachments/assets/f88f5210-fbff-4918-9f18-a078e5c2a374" />
+
 
 
 # Sprint Review:  
