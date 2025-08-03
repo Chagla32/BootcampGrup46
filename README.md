@@ -84,10 +84,14 @@ Oyun konseptinin değişmesi ve ekipten ayrılan üyelerin olması grup dinamiğ
 # Product Backlog URL:  
 https://app.clickup.com/90181370278/v/b/4-90185190727-2  
 # Sprint 3:  
-# Sprint içinde tamamlanması tahmin edilen puan:  27
+# Sprint içinde tamamlanması tahmin edilen puan ve puanlama mantığı:    
+Bu sprint kapsamında tamamlanması hedeflenen toplam iş yükü 27 puan olarak planlanmıştır. Puanlama, işlerin sprint süresi içinde tamamlanabilirliği göz önünde bulundurulmuştur.  
 # Daily Scrum:  
-Günlük iletişim yine WhatsApp üzerinden sağlandı. Zoom toplantıları haftalık 2 kez yapılmaya devam etti. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  
+Günlük iletişim yine WhatsApp üzerinden sağlandı. Zoom toplantıları haftalık 2 kez yapılmaya devam etti. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum3.docx](https://github.com/user-attachments/files/21566340/DailyScrum3.docx)  
 # Sprint board update:  
+<img width="1920" height="979" alt="Sprint Board" src="https://github.com/user-attachments/assets/97bb4577-eedc-4f31-a8ed-ff1e61aa51c8" />   
+# Product Backlog URL:  https://app.clickup.com/90181370278/v/b/4-90185190727-2  
+# Ürün Durumu:  
 # Sprint Review:  
 Menü sistemi ve temel UI unsurları tasarlandı. Projeye yeni kullanıcı arayüzleri (language toggle, ses ayarı vb.) eklendi. Karakter animasyonları ve kontrolleri geliştirildi. Oyun sahneleri hazırlandı. Düşman animasyonları ve kontrolleri temel olarak çalışır hale getirildi.
 # Sprint Retrospective:  
